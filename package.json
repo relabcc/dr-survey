@@ -311,7 +311,7 @@
     "js-yaml": "3.13.1",
     "lint-staged": "3.5.1",
     "macaddress": "0.2.9",
-    "marked": "0.3.18",
+    "marked": "4.0.10",
     "ngrok": "2.2.9",
     "node-plop": "0.7.0",
     "null-loader": "0.1.1",
